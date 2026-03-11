@@ -1,8 +1,4 @@
 {
-  "version": "1.1",
-  "files": [
-    "index.html",
-    "app.js",
-    "style.css"
-  ]
+  "version": "1.0",
+  "apk": "https://github.com/usuario/umawheel/releases/download/v1.2/umawheel.apk"
 }
